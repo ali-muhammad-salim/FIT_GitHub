@@ -1,6 +1,5 @@
 Name: Ali Muhammad
 Rollno: CT-083
-
 Name: Syed Irtiza
 Rollno: CT-072
 
